@@ -40,7 +40,7 @@ public class AddingMachine {
 	/**
 	 * Returns the total
 	 * 
-	 * @return
+	 * @return the total
 	 */
 	public int getTotal () {
 		
